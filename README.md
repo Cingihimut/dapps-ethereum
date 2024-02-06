@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Ethereum lock token</h1>
+<h1 align="center" id="title">E-voting with ethereum blockchain</h1>
 
 <p id="description">I am developing this project with the aim of learning in the world of blockchain specifically in the Ethereum development environment.</p>
 
