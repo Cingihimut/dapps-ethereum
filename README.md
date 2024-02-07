@@ -3,7 +3,7 @@
 <p id="description">I am developing this project intending to learn in the world of blockchain specifically in the Ethereum development environment.</p>
 
 <h2>development space</h2>
--Ethereum
+- Ethereum
 
 <h2>💻 Built with</h2>
 
