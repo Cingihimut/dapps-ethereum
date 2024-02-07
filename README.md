@@ -12,7 +12,7 @@
 - This application utilizes JavaScript, Next.js, and Web3.js for smooth communication with Ethereum smart contracts.
 - Ensure you have Node.js and npm installed to run the frontend application.
 
-<h2>development space</h2>
+development space:
 - Ethereum
 
 <h2>💻 Built with</h2>
